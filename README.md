@@ -22,7 +22,7 @@
 - **C-Level Dashboard Design:** Modernes UI/UX-Design mit Royal-Blue-Farbkonzept (`#1E3A8A`), schwebenden KPI-Karten und aufgeräumter Tabellenmatrix.
 
 ### 💡 Warum diese Architektur für Unternehmen entscheidend ist (Business Relevance)
-1. **100 % DSGVO- & Data Privacy Compliance:** Sämtliche Belege und Dokumente verbleiben in der lokalen Infrastruktur. Die Verarbeitung erfolgt datenschutzkonform ohne unkontrollierten Cloud-Abfluss sensibler Finanzdaten.
+1. **Kontrollierter Datenschutz & DSGVO-Sensibilität:** Während die initiale Texterkennung (OCR) über eine abgesicherte Gemini-API erfolgt, verbleiben alle zentralen Stammdaten, die weitere ETL-Strecke (Power Query) und das finale Reporting (Power BI) vollständig in der lokalen, kontrollierten Infrastruktur.
 2. **Proaktives Risikomanagement:** Statt starrer Fristen, die nach Ablauf unbrauchbar werden, sorgt eine automatisierte Fristenrollierung dafür, dass Termine kontinuierlich im Blick bleiben.
 3. **Maximale Effizienz & Automatisierung:** Reduktion des manuellen Controlling-Aufwands um über 90 % durch standardisierte Inbox- und Pipeline-Prozesse.
 
