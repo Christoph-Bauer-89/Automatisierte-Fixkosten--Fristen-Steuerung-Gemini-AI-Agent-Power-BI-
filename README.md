@@ -1,6 +1,6 @@
 # 🛡️ Smart Contract Manager: Automatisierte Fixkosten- & Fristen-Steuerung
 
-> **Eine hybride, 100 % DSGVO-konforme End-to-End-Datenpipeline zur intelligenten Erfassung, Strukturierung und proaktiven Überwachung privater Fixkosten und Kündigungsfristen mittels Gemini AI, Power Query (M-Code) und Power BI.**
+> **Eine hybride End-to-End-Datenpipeline zur intelligenten Erfassung, Strukturierung und proaktiven Überwachung privater Fixkosten und Kündigungsfristen mittels Gemini AI für die Texterkennung sowie lokaler Power-Query- und Power-BI-Infrastruktur für das Reporting.**
 
 ---
 
